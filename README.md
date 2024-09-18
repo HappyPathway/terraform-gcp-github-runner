@@ -1,28 +1,2 @@
-# terraform-gcp-github-runner
-Terraform Module
 
-<!-- BEGIN_TF_DOCS -->
-## Requirements
-
-No requirements.
-
-## Providers
-
-No providers.
-
-## Modules
-
-No modules.
-
-## Resources
-
-No resources.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
-<!-- END_TF_DOCS -->
+[![Terraform Validation](https://github.com/HappyPathway/terraform-gcp-github-runner/actions/workflows/terraform.yaml/badge.svg)](Terraform Validation](https://github.com/HappyPathway/terraform-gcp-github-runner/actions/workflows/terraform.yaml)
